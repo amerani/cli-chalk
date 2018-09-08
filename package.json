@@ -1,0 +1,26 @@
+{
+  "name": "cli-chalk",
+  "version": "1.0.0",
+  "description": "a simple helper for cli and script console logs",
+  "main": "index.js",
+  "author": "Alek Merani",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "chalk",
+    "cli",
+    "logger",
+    "logging",
+    "console",
+    "stdout"
+  ],
+  "peerDependencies": {
+    "chalk": "^2.4.1"
+  },
+  "devDependencies": {
+    "chalk": "^2.4.1",
+    "jest": "^23.5.0"
+  }
+}
