@@ -18,6 +18,8 @@ log.warn("im warning you...");
 log.info("for your information");
 ```
 
+![example-image](./examples/example.png)
+
 ## config
 ```js
 {
