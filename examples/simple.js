@@ -1,4 +1,4 @@
-const log = require("../index");
+const log = require("..");
 log.config.name = "my-cli";
 
 console.log("\n\n");
