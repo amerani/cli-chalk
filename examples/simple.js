@@ -1,3 +1,4 @@
+const chalk = require("chalk");
 const log = require("..");
 log.config.name = "my-cli";
 
@@ -14,6 +15,7 @@ log.info("for your information");
 console.log("\n");
 
 const { logger } = log;
+log.config.errorColor = chalk.keyword("orange");
 
 const data = {
     userId: 313
