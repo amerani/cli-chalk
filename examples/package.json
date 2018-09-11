@@ -1,0 +1,14 @@
+{
+  "name": "cli-chalk-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alek Merani",
+  "license": "MIT",
+  "devDependencies": {
+    "cli-chalk": "^1.0.5"
+  }
+}

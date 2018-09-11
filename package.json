@@ -6,7 +6,8 @@
   "author": "Alek Merani",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node examples/kitchen-sink.js"
   },
   "keywords": [
     "chalk",
