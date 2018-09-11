@@ -20,6 +20,25 @@ log.info("for your information");
 
 ![example-image](./examples/example.png)
 
+## fluent logger
+```js
+const { logger } = require("cli-chalk");
+
+const data = {
+    userId: 313
+}
+
+logger
+    .error("i have data")
+    .data("errorCode", -1000)
+    .data("timestamp", new Date())
+    .data("body", data)
+    .write();
+```
+
+![fluent-image](./examples/fluent.png)
+
+
 ## config
 ```js
 {
