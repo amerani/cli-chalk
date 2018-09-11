@@ -2,7 +2,7 @@
   "name": "cli-chalk",
   "version": "1.0.4",
   "description": "a simple helper for cli and script console logs",
-  "main": "index.js",
+  "main": "src/index.js",
   "author": "Alek Merani",
   "license": "MIT",
   "scripts": {

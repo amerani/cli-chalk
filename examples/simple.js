@@ -1,5 +1,5 @@
 const chalk = require("chalk");
-const log = require("..");
+const log = require("../src");
 log.config.name = "my-cli";
 
 console.log("\n\n");

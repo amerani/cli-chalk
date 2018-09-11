@@ -1,4 +1,4 @@
-const { logger } = require("..");
+const { logger } = require("../src");
 
 console.log("\n\n");
 
