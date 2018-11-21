@@ -1,4 +1,4 @@
-const log = require('../index');
+const log = require('../src/index');
 log.config.name = "test"
 
 test('should log success', () => {

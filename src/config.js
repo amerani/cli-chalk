@@ -1,7 +1,7 @@
 const chalk = require("chalk");
 
 const config = {
-    name: "cli",
+    name: "cli-chalk",
     nameColor: chalk.bgBlue,
     defaultColor: chalk.white,
     successColor: chalk.green,

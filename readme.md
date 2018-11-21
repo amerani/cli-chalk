@@ -42,7 +42,7 @@ logger
 ## config
 ```js
 {
-    name: "cli",
+    name: "cli-chalk",
     nameColor: chalk.bgBlue,
     successColor: chalk.green,
     errorColor: chalk.red,
